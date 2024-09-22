@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "authenticationType": "jwt",
+    "baseName": "jhipster",
+    "blueprints": [
+      {
+        "name": "generator-jhipster-nodejs",
+        "version": "3.0.0"
+      }
+    ],
+    "clientFramework": "react",
+    "clientTestFrameworks": ["cypress"],
+    "clientTheme": "none",
+    "creationTimestamp": 1726933712498,
+    "cypressAudit": true,
+    "cypressCoverage": null,
+    "devServerPort": 9060,
+    "enableTranslation": true,
+    "entities": [],
+    "jhipsterVersion": "8.5.0",
+    "languages": ["en"],
+    "microfrontend": null,
+    "microfrontends": [],
+    "monorepository": true,
+    "nativeLanguage": "en",
+    "prodDatabaseType": "mysql",
+    "serverPort": null,
+    "skipCommitHook": true,
+    "testFrameworks": ["cypress"],
+    "withAdminUi": true
+  }
+}
